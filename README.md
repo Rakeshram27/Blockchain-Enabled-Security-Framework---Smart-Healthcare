@@ -86,9 +86,9 @@ var agentContractAddress = '0x75E115394aacC7c6063E593B9292CB9417E4cbeC';
 #### 1. Connecting Metamask to our local blockchain
   - Connect metamask to localhost:8485
   - Click on import account
-  ![alt text](https://raw.githubusercontent.com/SuyashMore/SwasthyaChain/master/images/meta-1.png)
+  ![alt text](images/meta-1.png)
   - Select any account from ganache and copy the private key to import account into metaMask
-  ![alt text](https://raw.githubusercontent.com/SuyashMore/SwasthyaChain/master/images/con-g1.png)
+  ![alt text](images/con-g1.png)
 
 #### 2. Starting IPFS 
   - Start the IPFS Desktop Application
